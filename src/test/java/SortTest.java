@@ -1,4 +1,8 @@
 import org.junit.Test;
+import sort.BubbleSort;
+import sort.InsertionSort;
+import sort.QuickSort;
+import sort.Sort;
 
 import static org.junit.Assert.assertArrayEquals;
 

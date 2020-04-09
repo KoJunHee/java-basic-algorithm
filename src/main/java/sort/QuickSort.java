@@ -1,4 +1,6 @@
-class QuickSort implements Sort {
+package sort;
+
+public class QuickSort implements Sort {
 
     public void sort(int[] numbers) {
         quickSort(numbers, 0, numbers.length - 1);

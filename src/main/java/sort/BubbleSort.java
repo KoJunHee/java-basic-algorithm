@@ -1,4 +1,6 @@
-class BubbleSort implements Sort {
+package sort;
+
+public class BubbleSort implements Sort {
 
     public void sort(int[] numbers) {
         int n = numbers.length;

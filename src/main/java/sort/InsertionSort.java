@@ -1,4 +1,6 @@
-class InsertionSort implements Sort {
+package sort;
+
+public class InsertionSort implements Sort {
 
     public void sort(int[] numbers) {
         int length = numbers.length;
